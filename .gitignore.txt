@@ -1,4 +1,4 @@
 index.html
-wot.jpg
 lists
+wot.jpg
 hamidah.jpg
